@@ -40,18 +40,9 @@ The three LEDs represent:
 ## Technologies
 
 - Arduino Uno
-- C/C++
+- C
 - Analog Input
 - Digital Output
 - ADC
 - Arduino IDE
 
-## Project Structure
-
-```text
-Arduino-Voltage-Indicator/
-│
-├── Voltage-Indicator-Arduino/
-│   └── Voltage-Indicator-Arduino.ino
-│
-└── README.md
